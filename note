@@ -1,0 +1,22 @@
+pseudo class: define special state of an element
+grid : used to display content as row and column . User acn set width of row as well as column
+    grid coniner : display as grid, 
+    grid template -column/row : used to set width of column/row
+    grid item
+Animation:
+    animate.style
+    aos animate
+    locomtive scroll
+web host: web server
+    Netlify
+    Github pages
+    Vercel
+    --------------------------------------------
+              GIT & GITHUB 
+    --------------------------------------------
+    
+    GIT :version Controlling System
+    GIT commands
+        -git status : used to check the status of git inside the folder
+        -git init : used to create / initialize git repository in a folder
+        -git add . : used to track all the untracked file in the folder to git repository
